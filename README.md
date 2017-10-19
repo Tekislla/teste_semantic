@@ -1,1 +1,2 @@
 # teste_semantic
+ADICIONAR SEMANTIC COM O NOME "Semantic" E O JQUERY COM O NOME "jquery.js" DENTRO DA PASTA
